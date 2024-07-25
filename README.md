@@ -10,11 +10,11 @@
             font-family: Arial, sans-serif;  
             margin: 0;  
             padding: 0;  
-            background-color: #f4f4f4;  
+            background-color: #0ca82e;  
         }  
 
         header {  
-            background-color: #007bff;  
+            background-color: #ff5100;  
             color: white;  
             padding: 15px 20px;  
             text-align: center;  
@@ -40,7 +40,7 @@
         }  
 
         form {  
-            background-color: white;  
+            background-color: blue;  
             padding: 20px;  
             border-radius: 5px;  
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);  
